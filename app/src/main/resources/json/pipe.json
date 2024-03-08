@@ -1,0 +1,14 @@
+{
+  "textures": {
+    "up":     "textures/pipe/pipe-up",
+    "right":  "textures/pipe/pipe-right",
+    "left":   "textures/pipe/pipe-left",
+    "down":   "textures/pipe/pipe-down"
+  },
+  "frames": {
+    "up":     200,
+    "right":  200,
+    "left":   200,
+    "down":   200
+  }
+}

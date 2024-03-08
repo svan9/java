@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "": "textures/sandF",
+    "0": "textures/sandFF",
+    "1": "textures/sandFL",
+    "2": "textures/sandFS",
+    "3": "textures/sandFSA"
+  }
+}

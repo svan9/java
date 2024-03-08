@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "circle",
+      "items": [
+        {
+          "type": "label",
+          "color": "#cccccc",
+          "text": "$0"
+        }
+      ]
+    }
+  ]
+}

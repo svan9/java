@@ -1,0 +1,8 @@
+{
+  "type": "animation",
+  "textures": {"":"textures/player"},
+  "frames": {"":500},
+  "properties": {
+    "speed": "0.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "texture": "textures/floor_flower_c",
+  "frames": {
+    "anyOf": [
+      {"type": "array"},
+      {"type": "number"}
+    ]
+  },
+  "properties": {}
+}
